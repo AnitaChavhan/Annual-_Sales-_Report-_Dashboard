@@ -1,4 +1,4 @@
-# Annual-_Sales-_Report-_Dashboard
+# Excel_Vrinda_Store_Analysis : 
 Developed an Excel sales dashboard for the online store, providing a comprehensive overview of sales, order status, customer gender, sales channels, and top-performing states. This enables data-driven insights and strategic decision-making.
 
 
